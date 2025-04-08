@@ -770,30 +770,6 @@
   enabled: true
   icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\loaforc-loaforcsSoundAPI_REPO\icon.png
 - manifestVersion: 1
-  name: Gassayping-MemeSounds
-  authorName: Gassayping
-  websiteUrl: https://thunderstore.io/c/repo/p/Gassayping/MemeSounds/
-  displayName: MemeSounds
-  description: Replaces enemies' sounds with those from memes.
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1744117274115
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - loaforc-loaforcsSoundAPI-2.0.5
-    - loaforc-loaforcsSoundAPI_REPO-1.0.1
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\Gassayping-MemeSounds\icon.png
-- manifestVersion: 1
   name: SNEUS_STUDIO-RETEMINATOR
   authorName: SNEUS_STUDIO
   websiteUrl: https://thunderstore.io/c/repo/p/SNEUS_STUDIO/RETEMINATOR/
