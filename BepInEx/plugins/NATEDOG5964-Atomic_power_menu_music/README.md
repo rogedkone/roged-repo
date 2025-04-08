@@ -1,1 +1,0 @@
-Atomic power 1946

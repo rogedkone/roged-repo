@@ -132,29 +132,6 @@
   enabled: true
   icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\ErrorJan-TTSLocalizationFix\icon.png
 - manifestVersion: 1
-  name: NATEDOG5964-Atomic_power_menu_music
-  authorName: NATEDOG5964
-  websiteUrl: https://thunderstore.io/c/repo/p/NATEDOG5964/Atomic_power_menu_music/
-  displayName: Atomic_power_menu_music
-  description: Makes the Buchanan Brothers 1946 classic Atomic power the menu music
-  gameVersion: "0"
-  networkMode: both
-  packageType: other
-  installMode: managed
-  installedAtTime: 1743229685562
-  loaders: []
-  dependencies:
-    - BepInEx-BepInExPack-5.4.2100
-    - loaforc-loaforcsSoundAPI-2.0.5
-  incompatibilities: []
-  optionalDependencies: []
-  versionNumber:
-    major: 1
-    minor: 0
-    patch: 0
-  enabled: true
-  icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\NATEDOG5964-Atomic_power_menu_music\icon.png
-- manifestVersion: 1
   name: loaforc-loaforcsSoundAPI
   authorName: loaforc
   websiteUrl: https://thunderstore.io/c/repo/p/loaforc/loaforcsSoundAPI/
