@@ -1,0 +1,14 @@
+{
+    "replacements": [
+        {
+            "matches":[ 
+			"*:msc main menu",
+			],
+            "sounds": [
+                {
+                    "sound": "The Buchanan Brothers - Atomic Power (1946) 5.mp3"
+                }
+            ]
+        }
+    ]
+}

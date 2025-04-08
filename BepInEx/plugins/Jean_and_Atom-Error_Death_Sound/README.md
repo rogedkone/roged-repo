@@ -1,0 +1,1 @@
+Replaces death sounds with windows error

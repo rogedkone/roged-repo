@@ -1,0 +1,10 @@
+{
+  "name": "AhhExplosions",
+  "version_number": "1.0.5",
+  "description": "Replaces explosions with anime/girl moans",
+  "website_url": "",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "loaforc-loaforcsSoundAPI-2.0.5"
+  ]
+}

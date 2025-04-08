@@ -1,0 +1,20 @@
+{
+	"replacements": [
+		{
+			"matches": "*:grenade stun tinnitus:grenade stun tinnitus",
+			"sounds": [
+				{
+					"sound": "marmok.mp3"
+				}
+			]
+		},
+		{
+			"matches": "*:Item Grenade Stun:grenade stun countdown",
+			"sounds": [
+				{
+					"sound": "fart-with-reverb (mp3cut.net).mp3"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+    "replacements": [
+        {
+            "matches":[
+			"*:enemy beamer attack intro",
+			],
+            "sounds": [
+                {
+                    "sound": "staryi-bog-vovchik (mp3cut.net).mp3"
+                }
+            ]
+        }
+    ]
+}

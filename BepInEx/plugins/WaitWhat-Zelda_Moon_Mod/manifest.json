@@ -1,0 +1,9 @@
+{
+  "name": "Zelda_Moon_Mod",
+  "description": "Adds the Moon from Majora's Mask as a copy of the Head Man",
+  "version_number": "0.8.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

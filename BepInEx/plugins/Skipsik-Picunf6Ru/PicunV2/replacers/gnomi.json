@@ -1,0 +1,15 @@
+{
+    "replacements": [
+        {
+            "matches": [    "*:enemy gnome notice01",
+                            "*:enemy gnome notice02",
+                            "*:enemy gnome notice03",
+             ],
+            "sounds": [
+				{
+					"sound": "bliaiaiat.mp3",
+				}
+            ]
+        }
+    ]
+}

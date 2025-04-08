@@ -1,0 +1,14 @@
+{
+    "replacements": [
+        {
+            "matches":[
+			"*:enemy beamer laser loop",
+			],
+            "sounds": [
+                {
+                    "sound": "ty-vidish-kakie-u-menia-ogromnye-iaitsa-iou.mp3"
+                }
+            ]
+        }
+    ]
+}

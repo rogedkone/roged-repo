@@ -1,0 +1,7 @@
+{
+    "name": "REPO_Enemy_Drops",
+    "description": "A mod that drops items when killing enemies, Fully configurable",
+    "version_number": "2.0.0",
+    "dependencies": ["Lillious_Networks-REPO_Mod_Library-1.0.66","LavaGang-MelonLoader-0.7.0"],
+    "website_url": "https://github.com/imvertro/REPO_Enemy_Drops"
+}

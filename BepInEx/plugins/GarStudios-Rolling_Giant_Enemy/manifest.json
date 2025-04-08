@@ -1,0 +1,9 @@
+{
+  "name": "Rolling_Giant_Enemy",
+  "description": "Adds The Rolling Giant As An Enemy!",
+  "version_number": "2.0.1",
+  "dependencies": [
+    "Zehs-REPOLib-1.5.0"
+  ],
+  "website_url": ""
+}

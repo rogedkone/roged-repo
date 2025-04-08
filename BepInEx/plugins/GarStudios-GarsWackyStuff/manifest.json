@@ -1,0 +1,9 @@
+{
+  "name": "GarsWackyStuff",
+  "description": "Adds New Valuables, Monsters, Items, Maps!",
+  "version_number": "1.3.3",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

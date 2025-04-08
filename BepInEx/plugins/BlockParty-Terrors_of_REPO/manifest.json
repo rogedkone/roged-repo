@@ -1,0 +1,9 @@
+{
+  "name": "Terrors_of_REPO",
+  "description": "A fun little mod to add some of the silly stuff from Terrors of Nowhere, into R.E.P.O",
+  "version_number": "0.2.0",
+  "dependencies": [
+    "Zehs-REPOLib-1.4.2"
+  ],
+  "website_url": ""
+}

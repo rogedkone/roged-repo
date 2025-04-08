@@ -1,0 +1,9 @@
+{
+    "name": "MacesMasks",
+    "version_number": "1.3.0",
+    "website_url": "",
+    "description": "Made this for my frens <3 - Adds More Masks for More Head!",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.2.3"
+    ]
+}

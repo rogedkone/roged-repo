@@ -1,0 +1,14 @@
+{
+    "replacements": [
+        {
+            "matches":[
+			"*:enemy floater charge attack start"
+			],
+            "sounds": [
+                {
+                    "sound": "tvoia-popochka-vozbuzhdaet.mp3"		
+                }
+            ]
+        }
+    ]
+}

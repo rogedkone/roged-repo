@@ -1,0 +1,76 @@
+{
+  "replacements": [
+    {
+      "matches": "*:enemy duck quack01",
+      "sounds": [
+        {
+          "sound": "picun-f6_VxiPSQ5.mp3"
+        }
+      ]
+    },
+    {
+      "matches": "*:enemy duck quack02",
+      "sounds": [
+        {
+          "sound": "seichas-my-budem-zanimatsia-seksom_0fyWsNb (mp3cut.net).mp3"
+        }
+      ]
+    },
+    {
+      "matches": "*:enemy duck quack03",
+      "sounds": [
+        {
+          "sound": "tvoia-popochka-vozbuzhdaet.mp3"
+        }
+      ]
+    },
+    {
+      "matches": "*:enemy duck transition",
+      "sounds": [
+        {
+          "sound": "litvin-a-nu-idi-siuda.mp3"
+        }
+      ]
+    },
+    {
+      "matches": "*:enemy duck jaw retract",
+      "sounds": [
+        {
+          "sound": "eto-raion-dlia-geev.mp3"
+        }
+      ]
+    },
+    {
+      "matches": "*:enemy duck death",
+      "sounds": [
+        {
+          "sound": "puk-v-ekho.mp3"
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:enemy duck notice01",
+        "*:enemy duck notice02",
+        "*:enemy duck notice03"
+      ],
+      "sounds": [
+        {
+          "sound": "goida_hRZ6vDr.ogg"
+        }
+      ]
+    },
+    {
+      "matches": [
+        "*:enemy duck hurt01",
+        "*:enemy duck hurt02",
+        "*:enemy duck hurt03"
+      ],
+      "sounds": [
+        {
+          "sound": "est-probitie-chistoe.mp3"
+        }
+      ]
+    }
+  ]
+}

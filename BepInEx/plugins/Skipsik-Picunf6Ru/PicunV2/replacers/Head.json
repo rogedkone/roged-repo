@@ -1,0 +1,14 @@
+{
+    "replacements": [
+        {
+            "matches":[
+			"*:headman chase begin global",
+			],
+            "sounds": [
+                {
+                    "sound": "minetiki.mp3"
+                }
+            ]
+        }
+    ]
+}

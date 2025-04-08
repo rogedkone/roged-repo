@@ -1,0 +1,7 @@
+{
+    "name": "REPO_Mod_Library",
+    "description": "A mod library with developer friendly syntax with the goal of simplifying writing repetitive and ugly code.",
+    "version_number": "1.0.66",
+    "dependencies": [],
+    "website_url": "https://www.nuget.org/packages/RepoModLibrary"
+}

@@ -1,0 +1,67 @@
+{
+    "replacements": [
+      {
+        "matches": [
+          "*:explosion generic small01",
+          "*:explosion generic small02",
+          "*:explosion generic small03",
+          "*:explosion generic small global01",
+          "*:explosion generic small global02",
+          "*:explosion generic small global03",
+          "*:explosion generic big01",
+          "*:explosion generic big02",
+          "*:explosion generic big03",
+          "*:explosion generic big global01",
+          "*:explosion generic big global02",
+          "*:explosion generic big global03"
+        ],
+        "sounds": [
+          {
+            "sound": "ahh.wav"
+          }
+        ]
+      },
+      {
+        "matches": [
+          "*:grenade shockwave explosion01",
+          "*:grenade shockwave explosion02",
+          "*:grenade shockwave explosion03",
+          "*:grenade shockwave explosion global01",
+          "*:grenade shockwave explosion global02",
+          "*:grenade shockwave explosion global03"
+        ],
+        "sounds": [
+          {
+            "sound": "uwu.wav"
+          }
+        ]
+      },
+      {
+        "matches": [
+          "*:grenade stun explosion"
+        ],
+        "sounds": [
+          {
+            "sound": "yah.wav"
+          }
+        ]
+      },
+      {
+        "matches": [
+          "*:grenade duct taped cluster01",
+          "*:grenade duct taped cluster02",
+          "*:grenade duct taped cluster03",
+          "*:grenade duct taped cluster global01",
+          "*:grenade duct taped cluster global02",
+          "*:grenade duct taped cluster global03"
+        ],
+        "sounds": [
+          {
+            "sound": "nya.wav"
+          }
+        ]
+      }
+    ]
+}
+
+

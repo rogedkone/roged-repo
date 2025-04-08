@@ -1,0 +1,14 @@
+{
+    "replacements": [
+        {
+            "matches":[ 
+			"*:msc main menu",
+			],
+            "sounds": [
+                {
+                    "sound": "govnovoz.ogg"
+                }
+            ]
+        }
+    ]
+}
