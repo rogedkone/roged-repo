@@ -1,0 +1,9 @@
+{
+    "name": "REPODiscordRichPresence",
+    "version_number": "0.1.6",
+    "website_url": "https://github.com/Toliann",
+    "description": "R.E.P.O. Discord Rich Presence support",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2100"
+    ]
+}

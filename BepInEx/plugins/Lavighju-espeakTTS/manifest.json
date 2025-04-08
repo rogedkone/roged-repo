@@ -1,0 +1,9 @@
+{
+    "name": "espeakTTS",
+    "version_number": "0.0.7",
+    "website_url": "",
+    "description": "Changes the TTS to support multiple languages.",
+    "dependencies": [
+	"BepInEx-BepInExPack-5.4.2100"
+	]
+}

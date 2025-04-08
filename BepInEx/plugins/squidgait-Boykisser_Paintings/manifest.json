@@ -1,0 +1,9 @@
+{
+    "name": "Boykisser_Paintings",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Adds some of my favorite various boykisser images to R.E.P.O.",
+    "dependencies": [
+		"UnderratedJunk-CustomPaintings-1.0.2"
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name": "CustomPaintings",
+    "version_number": "1.0.7",
+	"website_url": "",
+    "description": "this mod randomizes all paintings and replaces them with your own custom ones",
+    "dependencies": [
+		"BepInEx-BepInExPack-5.4.2100",
+		"Zehs-REPOLib-2.0.1"
+	]
+}

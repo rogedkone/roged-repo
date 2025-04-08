@@ -1,0 +1,9 @@
+﻿{
+  "name": "MoreFurryModels",
+  "version_number": "1.0.1",
+  "website_url": "",
+  "description": "Furry models including ears, tails and fluff!",
+  "dependencies": [
+      "nickklmao-MenuLib-2.1.3"
+  ]
+}

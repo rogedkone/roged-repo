@@ -1,0 +1,9 @@
+﻿{
+    "name": "BoykisserCosmetics",
+    "version_number": "1.0.1",
+    "website_url": "",
+    "description": "Boykisser Cosmetics adds some silly little boykisser decorations for MoreHead! Recommended to use white body but do what you want.",
+    "dependencies": [
+        "YMC_MHZ-MoreHead-1.3.4"
+    ]
+}
