@@ -1,0 +1,10 @@
+{
+  "name": "RU_REPEREVOD_RUSSIANKID",
+  "version_number": "2.5.0",
+  "website_url": "https://t.me/REPO_russian_bot",
+  "description": "Файл с полным* переводом .Установка в описании Читать всем! для мода QERT2002-REPO_Translator-1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "QERT2002-REPO_Translator-1.0.0"
+  ]
+}
