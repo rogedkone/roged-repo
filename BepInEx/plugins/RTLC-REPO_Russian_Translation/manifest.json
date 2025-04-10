@@ -1,9 +1,11 @@
 {
     "name": "REPO_Russian_Translation",
-    "version_number": "1.0.1",
+    "version_number": "1.0.3",
     "website_url": "https://discord.gg/QahpjZzGkm",
     "description": "Перевод текстур и текста игры на русский язык",
     "dependencies": [
-        "Hayrizan-XUnity_AutoTranslator-5.4.4"
+        "Hayrizan-XUnity_AutoTranslator-5.4.4",
+		"BepInEx-BepInExPack-5.4.2100",
+		"Lavighju-espeakTTS-0.0.7"
     ]
 }

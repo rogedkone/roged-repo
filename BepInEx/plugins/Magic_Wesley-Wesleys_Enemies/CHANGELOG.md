@@ -1,3 +1,5 @@
+## v1.1.9
+- Fixed several things
 ## v1.1.8
 - Fixed a stun issue introduced by my fix for a stun issue with Droids and Destroyers
 ## v1.1.7

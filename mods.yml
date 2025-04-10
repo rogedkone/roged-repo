@@ -754,7 +754,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1744117383771
+  installedAtTime: 1744305797895
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -764,9 +764,9 @@
   versionNumber:
     major: 1
     minor: 1
-    patch: 8
+    patch: 9
   enabled: true
-  icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\Magic_Wesley-Wesleys_Enemies\icon.png
+  icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\cache\Magic_Wesley-Wesleys_Enemies\1.1.9\icon.png
 - manifestVersion: 1
   name: surfknasen-Walkie_Talkies
   authorName: surfknasen
@@ -870,7 +870,7 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1744117647353
+  installedAtTime: 1744305797798
   loaders: []
   dependencies:
     - BepInEx-BepInExPack-5.4.2100
@@ -879,7 +879,7 @@
   versionNumber:
     major: 0
     minor: 2
-    patch: 0
+    patch: 2
   enabled: true
   icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\readthisifbad-NetworkingReworked\icon.png
 - manifestVersion: 1
@@ -960,16 +960,18 @@
   networkMode: both
   packageType: other
   installMode: managed
-  installedAtTime: 1744117797240
+  installedAtTime: 1744305797704
   loaders: []
   dependencies:
+    - BepInEx-BepInExPack-5.4.2100
     - Hayrizan-XUnity_AutoTranslator-5.4.4
+    - Lavighju-espeakTTS-0.0.7
   incompatibilities: []
   optionalDependencies: []
   versionNumber:
     major: 1
     minor: 0
-    patch: 1
+    patch: 3
   enabled: true
   icon: C:\Users\User\AppData\Roaming\r2modmanPlus-local\REPO\profiles\rogedpo\BepInEx\plugins\RTLC-REPO_Russian_Translation\icon.png
 - manifestVersion: 1

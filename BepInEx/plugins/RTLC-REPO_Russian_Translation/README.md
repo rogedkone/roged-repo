@@ -1,6 +1,22 @@
 # RTLC Russian Translation
 
-Мод предназначен для перевода текста и текстур на русский язык.
+Мод предназначен для перевода текста и текстур на русский язык. [Видео-обзор](https://www.youtube.com/watch?v=u7fm7Dds__U&ab_channel=DimaLooper)
+
+Для помощи в разработке можете поддержать нас копеечкой на [DonatAlerts](https://www.donationalerts.com/r/dima_looper)!
+
+</details>
+
+**<details><summary>Пример перевода</summary>**
+
+![amo](https://i.imgur.com/63LDtPq.png)
+
+![amo](https://i.imgur.com/vf9uBJA.png)
+
+![amo](https://i.imgur.com/8Iuz6dh.png)
+
+![amo](https://i.imgur.com/YsPBU0Q.png)
+
+</details>
 
 # Текстуры
 
@@ -10,18 +26,27 @@
 
 # Авторы
 
-- Перевод текста текстур: Hayrizan и DimaLooper 
+- Перевод текста текстур: Hayrizan
 
-# Примеры перевода
+# Перевод модов
 
-[Видео-обзор](https://www.youtube.com/watch?v=u7fm7Dds__U&ab_channel=DimaLooper)
+Также переведены некоторые моды
 
-## Пример перевода
-![amo](https://i.imgur.com/63LDtPq.png)
+Одни из них: Repo roles, More Upgrades, MoreHead, MenuLib, REPO ServerList, CustomColors и так далее.
 
-![amo](https://i.imgur.com/vf9uBJA.png)
+</details>
+
+**<details><summary>Пример перевода модов</summary>**
 
 ![amo](https://i.imgur.com/N21tKvL.png)
+
+![amo](https://i.imgur.com/956YQsU.png)
+
+![amo](https://i.imgur.com/ZvM2zPy.jpeg)
+
+![amo](https://i.imgur.com/Inel266.jpeg)
+
+</details>
 
 # Дополнительно
 

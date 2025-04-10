@@ -1,6 +1,6 @@
 {
     "name": "NetworkingReworked",
-    "version_number": "0.2.0",
+    "version_number": "0.2.2",
     "website_url": "https://github.com/Ian0526/NetworkingReworked",
     "description": "A mod that alters the networking behavior of REPO to make clients feel like they're playing on singleplayer.",
     "dependencies": [
